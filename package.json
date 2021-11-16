@@ -1,0 +1,24 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilya-Kuzmich/wb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-Kuzmich/wb/issues"
+  },
+  "homepage": "https://github.com/Ilya-Kuzmich/wb#readme",
+  "dependencies": {
+    "chromedriver": "^95.0.0",
+    "jasmine": "^3.10.0",
+    "selenium-webdriver": "^4.0.0"
+  }
+}
